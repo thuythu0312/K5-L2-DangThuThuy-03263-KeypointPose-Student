@@ -1,0 +1,43 @@
+{
+ "mssv": "03263",
+ "ten": "DangThuThuy",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "thuythu0965@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000240340.jpg",
+  "000000292999.jpg",
+  "000000308257.jpg",
+  "000000365099.jpg",
+  "000000056651.jpg",
+  "000000156986.jpg",
+  "000000580257.jpg",
+  "000000210604.jpg",
+  "000000461002.jpg",
+  "000000438099.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_155465.jpg",
+  "face_232598.jpg",
+  "face_261458.jpg",
+  "face_416730.jpg",
+  "face_436791.jpg",
+  "face_249336.jpg",
+  "face_405456.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-DangThuThuy"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-DangThuThuy"
+  }
+ }
+}
